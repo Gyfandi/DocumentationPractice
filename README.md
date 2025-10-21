@@ -25,7 +25,7 @@ DocumentationPractice/
     ```bash
     javac Main.java
     java Main
-    
+
 📝 Tentang Program
 **File Main.java berisi kode Java sederhana seperti berikut:**
 ```java
