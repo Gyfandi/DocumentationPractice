@@ -1,5 +1,8 @@
 # Documentation Practice
 ## _Proyek ini digunakan untuk latihan membuat dokumentasi di GitHub._
+## Author
+- Nama : Gyfandi Mecca Firstson Cusy
+- NIM : 202410370110505
 
 🎯 Tujuan Proyek
 Proyek ini bertujuan untuk mempraktikkan dasar penggunaan **Git** dan **GitHub**, seperti:
@@ -31,11 +34,6 @@ DocumentationPractice/
 ```java
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Git DocumentationPractice!");
+        System.out.println("Distaym is our years!");
     }
 }
-
-
-## Author
-- Nama : Gyfandi Mecca Firstson Cusy
-- Nim : 202410370110505
